@@ -1,4 +1,4 @@
-<h2 align="center">zomatoAnalyse</h2>
+<h1 align="center">zomatoAnalyse</h1>
 <hr>
 
 
