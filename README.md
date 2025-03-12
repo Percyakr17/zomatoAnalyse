@@ -13,6 +13,8 @@ The script will cover:
 <li>Handling missing values</li>
 <li>Data cleaning (renaming columns, removing duplicates)</li>
 <li>Exploratory analysis (distribution of ratings, most popular cuisines, price range analysis, etc.)</li>
+<br>
+
 
 
 I've improved the accuracy of the analysis by:
