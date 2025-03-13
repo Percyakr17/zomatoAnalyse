@@ -64,3 +64,7 @@ The zomatoAnalyis Python script performs an exploratory data analysis (EDA) on t
 
 <li>The script prints the final message indicating the completion of the analysis.</li>
 <li>Several plots are generated to provide insights into restaurant ratings, cuisine popularity, and pricing trends.</li>
+
+
+5. To run the Code Script - use (zomatoAnalysis.ipynb) file to run in juypter or Google colab 
+
