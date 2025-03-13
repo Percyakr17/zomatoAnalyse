@@ -1,5 +1,5 @@
 <h1 align="center">zomatoAnalyse</h1>
-<hr>
+
 
 Creating a Data Analysis Project based on Zomato chain supply to promote food in need in those cities.
 Creating a Python script that loads the Zomato dataset, cleans it, and performs exploratory data analysis (EDA) to extract valuable insights. 
