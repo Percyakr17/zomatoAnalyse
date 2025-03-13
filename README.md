@@ -22,9 +22,11 @@ I've improved the accuracy of the analysis by:
 <li>Extracting only the primary cuisine from the list.</li>
 <li>Adding a correlation heatmap to analyze relationships.</li>
 
+<hr>
+
 
 <h1 align="center">Summary</h1>
-<hr>
+
 
 The zomatoAnalyis Python script performs an exploratory data analysis (EDA) on the Zomato dataset to extract valuable insights. Below is a breakdown of its key steps:
 
