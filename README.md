@@ -1,4 +1,4 @@
-<h1 align="center">zomatoAnalyse</h1>
+<h1 align="center">zomatoAnalysis</h1>
 
 
 Creating a Data Analysis Project based on Zomato chain supply to promote food in need in those cities.
