@@ -29,13 +29,15 @@ I've improved the accuracy of the analysis by:
 
 
 The zomatoAnalyis Python script performs an exploratory data analysis (EDA) on the Zomato dataset to extract valuable insights. Below is a breakdown of its key steps:
+<hr>
+
 
 1. Data Loading and Inspection
 
 <li>The script loads the Zomato dataset using Pandas.</li>
 <li>It prints dataset information and the first few rows to understand the structure.</li>
 
-
+<br>
 
 2. Data Cleaning and Preprocessing
 <li>Handles missing values by removing incomplete rows.</li>
@@ -44,7 +46,7 @@ The zomatoAnalyis Python script performs an exploratory data analysis (EDA) on t
 <li>Converts relevant columns (aggregate_rating and price_range) to numeric types for accurate analysis.</li>
 <li>Filters out rows where the rating is zero to avoid skewed results.</li>
 
-
+<br>
 
 3. Exploratory Data Analysis (EDA) with Visualizations
 
@@ -55,7 +57,7 @@ The zomatoAnalyis Python script performs an exploratory data analysis (EDA) on t
 <li>A box plot compares aggregate ratings across different price ranges.</li>
 <li>Correlation Heatmap: Displays the relationship between price range and aggregate ratings.</li>
 
-
+<br>
 4. Final Output
 
 <li>The script prints the final message indicating the completion of the analysis.</li>
