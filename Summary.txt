@@ -1,0 +1,25 @@
+The zomatoAnalyis Python script performs an exploratory data analysis (EDA) on the Zomato dataset to extract valuable insights. Below is a breakdown of its key steps:
+
+Data Loading and Inspection
+
+The script loads the Zomato dataset using Pandas.
+It prints dataset information and the first few rows to understand the structure.
+Data Cleaning and Preprocessing
+
+Handles missing values by removing incomplete rows.
+Standardizes column names by converting them to lowercase and replacing spaces with underscores.
+Removes duplicate records to ensure data integrity.
+Converts relevant columns (aggregate_rating and price_range) to numeric types for accurate analysis.
+Filters out rows where the rating is zero to avoid skewed results.
+Exploratory Data Analysis (EDA) with Visualizations
+
+Rating Distribution: A histogram is used to visualize the distribution of aggregate ratings.
+Most Popular Cuisines: Extracts the first cuisine type and displays the top 10 most frequent ones using a bar chart.
+Price Range Analysis:
+A count plot shows how restaurants are distributed across different price ranges.
+A box plot compares aggregate ratings across different price ranges.
+Correlation Heatmap: Displays the relationship between price range and aggregate ratings.
+Final Output
+
+The script prints the final message indicating the completion of the analysis.
+Several plots are generated to provide insights into restaurant ratings, cuisine popularity, and pricing trends.
